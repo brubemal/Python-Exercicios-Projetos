@@ -30,7 +30,7 @@ while True:
     elif opcao == '2':
         cursor.execute("SELECT * FROM cadastro_alunos")
 
-        alunos = cursor.fetchall()
+        alunos = cursor.fetchall() 
 
         for aluno in alunos:
             print(aluno)
