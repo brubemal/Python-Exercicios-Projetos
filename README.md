@@ -8,7 +8,7 @@ Repositório criado com o objetivo de registrar meus estudos em Python, incluind
 - SQL
 
 ## Projetos finalizados
-- Sistema de cadastro de alunos
+- Sistema de cadastro de alunos com SQLite3
 - Calculadora de IMC
 
 ## Projetos para fazer
